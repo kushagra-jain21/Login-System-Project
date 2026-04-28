@@ -1,0 +1,6 @@
+<html>
+<body>
+<h2>Welcome to Student Login System</h2>
+<a href="login.jsp">Login Here</a>
+</body>
+</html>
