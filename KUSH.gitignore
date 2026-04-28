@@ -1,0 +1,6 @@
+*.class
+*.log
+*.jar
+*.war
+node_modules/
+.DS_Store
